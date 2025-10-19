@@ -275,7 +275,7 @@ var $plugins =
       "Line 14 URL": "",
       "Line 15 Text": "Translation:Ari Ruidus Been (@been_fruitfun)",
       "Line 15 URL": "",
-      "Line 16 Text": "Japanese Version Proofread:てと （@Teto_pikapika）",
+      "Line 16 Text": "English Adaptation: en (@natsybanekou)",
       "Line 16 URL": "",
       "Line 17 Text": "SpecialThanks：Yanfly 硕明云书",
       "Line 17 URL": "",
